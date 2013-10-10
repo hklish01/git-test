@@ -1,6 +1,6 @@
 name = Site Information
 core = 7.x
-package = Tisch Tutorial
+package = Tutorial
 dependencies[] = ctools
 dependencies[] = strongarm
 features[ctools][] = strongarm:strongarm:1
