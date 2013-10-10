@@ -2,6 +2,7 @@ Features
 ======
 
 * Structuring features modules
+* Strongarm and variables
 * Code structure and direct editing of values
 * Reusing features modules for encapsulated code
 * Drush commands (fl, fc, fe, fu, fr, fd)
