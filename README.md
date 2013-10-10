@@ -18,7 +18,7 @@ Git
 * Github (edit/commit UI, tags/releases, issue tracker)
 * Fetch and Merge
 * Git flow (master, develop, feature, release and hotfix branches)
-* Git describe
+* Git describe (for tags)
 * Rebasing
 * Resolving merge conflicts
 
