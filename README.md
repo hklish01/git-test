@@ -22,7 +22,12 @@ Git
 * Rebasing
 * Resolving merge conflicts
 
+### gitconfig
+
 git config core.fileMode false  
+
+### Merge conflict
+
 git mergetool -t opendiff  
 git config --global merge.tool opendiff
 
