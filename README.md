@@ -18,15 +18,21 @@ Git
 * Github (edit/commit UI, tags/releases, issue tracker)
 * Fetch and Merge
 * Git flow (master, develop, feature, release and hotfix branches)
-* Git describe
+* Git describe (for tags)
 * Rebasing
 * Resolving merge conflicts
 
+### gitconfig
+
 git config core.fileMode false  
+
+### Merge conflict
+
 git mergetool -t opendiff  
 git config --global merge.tool opendiff
 
 **References**  
+http://longair.net/blog/2009/04/16/git-fetch-and-merge  
 http://nvie.com/posts/a-successful-git-branching-model  
 http://git-scm.com/documentation  
 http://gitimmersion.com/lab_11.html  
