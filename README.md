@@ -28,7 +28,7 @@ git config --global merge.tool opendiff
 
 **References**  
 http://nvie.com/posts/a-successful-git-branching-model  
-http://git-scm.com
+http://git-scm.com/documentation
 
 Drush
 ====
