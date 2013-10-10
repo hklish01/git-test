@@ -28,7 +28,8 @@ git config --global merge.tool opendiff
 
 **References**  
 http://nvie.com/posts/a-successful-git-branching-model  
-http://git-scm.com/documentation
+http://git-scm.com/documentation  
+http://gitimmersion.com/lab_11.html
 
 Drush
 ====
