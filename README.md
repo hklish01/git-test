@@ -1,4 +1,3 @@
-
 Features
 ======
 
@@ -22,7 +21,7 @@ Git
 * Rebasing
 * Resolving merge conflicts
 
-git config core.fileMode false
+git config core.fileMode false  
 git mergetool -t opendiff  
 git config --global merge.tool opendiff
 
@@ -36,3 +35,6 @@ Drush
 * Other commands: sql-cli, sql-drop
 * Site aliases
 * Shell aliases
+
+http://drush.ws  
+http://drush.ws/help/examples  
